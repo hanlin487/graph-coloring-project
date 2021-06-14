@@ -15,6 +15,7 @@ def CheckProperColoring(G):#\\\DONE
 
 def usage():
     print("Usage: $ python3 GraphColoring.py <input file> <output file>", file=sys.stderr)
+    exit()
 #end
 
 def main():
