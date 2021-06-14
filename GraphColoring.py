@@ -1,11 +1,3 @@
-"""
-Hanlin Chen
-hchen226@ucsc.edu
-cse 30-02 spring 2021
-
-PA 6
-graph coloring program reading and writing later
-"""
 import sys
 from graph import *
 
