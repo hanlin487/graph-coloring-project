@@ -1,11 +1,3 @@
-"""
-Hanlin Chen
-hchen226@ucsc.edu
-cse 30-02 spring 2021
-
-PA 6
-The graph program that does calculations i think
-"""
 from queue import *
 from GraphColoring import *
 
@@ -257,11 +249,6 @@ class Graph(object):
         return self._color[x]
     #end
 
-
-
-#------------------------------------------------------------------------------
-#  Test the Graph type
-#------------------------------------------------------------------------------
 def main():
     
     V = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
